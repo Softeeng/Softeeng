@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Latiryni Gilbert
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me thewealthy1ne@gmail.com
+I'm Latiryni
+
+😎 About Me
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Python via Codedex.
+- 💞️ I’m looking to find a cereer in Web Development or Gaming after my BS.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am currently in school for my BS in Computer Science
+
+⚡ Fun facts
+- I am currently in school for my BS in Computer Science!
+- I love learning new skills.
+- I'm a HUGE marvel fan!
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Softeeng/30-nites-of-code)  
+  ![@Softeeng #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Softeeng)
 
 <!---
 Softeeng/Softeeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
