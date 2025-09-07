@@ -1,15 +1,16 @@
 I'm Latiryni
 
 😎 About Me
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Python via Codedex.
-- 💞️ I’m looking to find a cereer in Web Development or Gaming after my BS.
+- 👀 I am a CompSci student at Southern New Hampshire University(Graduating 2027)
+- 🌱 I’m currently learning new languages via Codedex.
+- 💞️ I’m looking to find a career in Web Development or Gaming after my BS.
 - 😄 Pronouns: She/Her
 
-⚡ Fun facts
-- I am currently in school for my BS in Computer Science!
-- I love learning new skills.
-- I'm a HUGE marvel fan!
+📁 Featured Projects
+- 🎮 Text-Based-Adventure Game (Python)
+-🐾 Pet BAG (Java OOP Project)
+
+👩🏾‍💻 Coding Tracker
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Softeeng/30-nites-of-code)  
   ![@Softeeng #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Softeeng)
