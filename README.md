@@ -16,8 +16,8 @@ Hi I am Latiryni
 - 🎮 Text-Based-Adventure Game (Python)
   Interactive console-based adventure game with with multiple story paths and replayability
   
--🐾 Pet BAG (Java OOP Project)
-  Pet Boarding and Grooming application demonstrating OOP principles like inheritance, encapsulation, and polymorphism.
+- 🐾 Pet BAG (Java OOP Project)
+  Pet Boarding and Grooming application demonstrating OOP principles like inheritance, encapsulation, and polymorphism
 --------------------
 📊 Current Goals
 - Build a portfolio of software and game development projects
@@ -26,10 +26,8 @@ Hi I am Latiryni
 --------------------
 📥 Connect with me
 - 📧 Email: latiryni.gilbert@outlook.com
-- 💼 Linkedin: [
-](https://www.linkedin.com/in/latiryni-gilbert/)
-- 🤝 Handshake:[
-](https://snhu.joinhandshake.com/profiles/latiryni-gilbert)
+- 💼 Linkedin: https://www.linkedin.com/in/latiryni-gilbert/
+- 🤝 Handshake: https://snhu.joinhandshake.com/profiles/latiryni-gilbert
 - 🌐 Portfolio: Coming Soon
 --------------------
  👩🏾‍💻 Coding Tracker:
