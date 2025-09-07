@@ -1,4 +1,4 @@
-I'm Latiryni
+Hi I am Latiryni
 
 😎 About Me
 - 👀 I am a CompSci student at Southern New Hampshire University(Graduating 2027)
@@ -10,7 +10,7 @@ I'm Latiryni
 - 🎮 Text-Based-Adventure Game (Python)
 -🐾 Pet BAG (Java OOP Project)
 
-👩🏾‍💻 Coding Tracker
+👩🏾‍💻 Coding Tracker:
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Softeeng/30-nites-of-code)  
   ![@Softeeng #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Softeeng)
