@@ -3,7 +3,7 @@ Hi I am Latiryni
 😎 About Me
 - 🎓 I am a CompSci student at Southern New Hampshire University(Graduating 2027)
 - 🌱 I’m currently learning new languages via Codedex.
-- 💻 Passionate about software engineering, game development, and problem-solving
+- 💻 Passionate about software engineering, game development, healthcare IT, and problem-solving
 -🚀 I’m actively seeking intership opportunities in software development and IT
 - 😄 Pronouns: She/Her
 --------------------
@@ -18,6 +18,9 @@ Hi I am Latiryni
   
 - 🐾 Pet BAG (Java OOP Project)
   Pet Boarding and Grooming application demonstrating OOP principles like inheritance, encapsulation, and polymorphism
+
+- ⚕️ Patient Record Manager (Python)
+  A Python console app using SQLite for managing patient records with full CRUD functionality and input validation 
 --------------------
 📊 Current Goals
 - Build a portfolio of software and game development projects
