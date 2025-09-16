@@ -16,14 +16,14 @@ Hi I am Latiryni
 - 🎮 Text-Based-Adventure Game (Python)
   Interactive console-based adventure game with with multiple story paths and replayability
   
-- 🐾 Pet BAG (Java OOP Project)
+- 🐾 Pet BAG (Java OOP Project) 
   Pet Boarding and Grooming application demonstrating OOP principles like inheritance, encapsulation, and polymorphism
 
-- ⚕️ Patient Record Manager (Python)
+- ⚕️ Patient Record Manager (Python) 
   A Python console app using SQLite for managing patient records with full CRUD functionality and input validation 
 --------------------
 📊 Current Goals
-- Build a portfolio of software and game development projects
+- Build a portfolio of software, healthcare, and game development projects
 - Strengthen skills in Python, Java, algorithms, and other languages
 - Contribute to open-source projects
 --------------------
