@@ -32,11 +32,6 @@ Hi I am Latiryni
 - 💼 Linkedin: https://www.linkedin.com/in/latiryni-gilbert/
 - 🤝 Handshake: https://snhu.joinhandshake.com/profiles/latiryni-gilbert
 - 🌐 Portfolio: Coming Soon
---------------------
- 👩🏾‍💻 Coding Tracker:
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Softeeng/30-nites-of-code)  
-  ![@Softeeng #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Softeeng)
 
 <!---
 Softeeng/Softeeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
